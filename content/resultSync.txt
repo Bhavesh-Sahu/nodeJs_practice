@@ -1,0 +1,2 @@
+Here is the combined result file This first file 
+ This second file
